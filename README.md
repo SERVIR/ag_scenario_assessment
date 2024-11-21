@@ -11,3 +11,4 @@ pip install git+https://github.com/daquinterop/spatialDSSAT
 ### Notebooks
  - **baseline_verification.ipynb**: explore the results of the previously generated validation runs. It generates a file that contains the model error metrics for each district.
  - **dssat_run_example.ipynb**: one example of how to simulate different management scenarios using the `run_district` function.
+ - **experiments.ipynb**: one experiment with different levels of irrigation and nitrogen fertilization. An analysis exploring the effect of those factors in yield is conducted.
